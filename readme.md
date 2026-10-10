@@ -1,4 +1,4 @@
-# highlighted.codes - Syntax Highlighter
+# codeforslides.com - Syntax Highlighter
 
 A simple web application to syntax highlight code in 20+ programming languages and copy it with colors preserved for pasting into Word, PowerPoint, and other rich text editors.
 

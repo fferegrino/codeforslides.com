@@ -1,6 +1,6 @@
 {
-    "name": "highlighted.codes - Syntax Highlighter",
-    "short_name": "highlighted.codes",
+    "name": "codeforslides.com - Syntax Highlighter",
+    "short_name": "codeforslides.com",
     "description": "Free online syntax highlighter for 20+ programming languages",
     "start_url": "/",
     "display": "standalone",

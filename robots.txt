@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://highlighted.codes/sitemap.xml
+Sitemap: https://codeforslides.com/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
